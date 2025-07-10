@@ -11,6 +11,6 @@
     "jquery": "3.4.0",
     "express": "4.16.0",
     "debug": "2.6.8",
-    "event-stream": "3.3.6"
+    "event-stream": "4.0.0"
   }
 }
